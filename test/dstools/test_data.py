@@ -1,4 +1,4 @@
-from dstools.data import get_binary_columns
+from dstools.data import *
 
 import pytest
 
